@@ -84,6 +84,8 @@ npm install
 npm run dev
 ```
 
+---
+
 ## 🚀 Deployment
 
 The project is deployed and accessible online. You can explore the live application here:
