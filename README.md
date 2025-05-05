@@ -105,5 +105,4 @@ The project is deployed and accessible online. You can explore the live applicat
 
 ## 🤝 Contact
 
-- Created by Nikhil Korada
 - For queries: nikhilkorada7@gmail.com
