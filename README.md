@@ -84,6 +84,15 @@ npm install
 npm run dev
 ```
 
+## 🚀 Deployment
+
+The project is deployed and accessible online. You can explore the live application here:
+
+🔗 **Live Link:** [User Login](https://medisched-pfju.onrender.com) 
+
+🔗 **Live Link:** [Admin login/Doctor login](https://medisched-panel.onrender.com) 
+
+
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/6e7ce63e-5e83-4990-a357-eed44ee9eee0)
@@ -96,11 +105,3 @@ npm run dev
 
 - Created by Nikhil Korada
 - For queries: nikhilkorada7@gmail.com
-
-## 🚀 Deployment
-
-The project is deployed and accessible online. You can explore the live application here:
-
-🔗 **Live Link:** [User Login](https://medisched-pfju.onrender.com) 
-
-🔗 **Live Link:** [Admin login/Doctor login](https://medisched-panel.onrender.com) 
